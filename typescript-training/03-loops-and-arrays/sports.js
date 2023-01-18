@@ -1,3 +1,4 @@
+"use strict";
 var sports = ["skate", "bodybuilding", "e-sports"];
 sports.push("surf");
 // for (let i = 0; i < sports.length; i++) {
